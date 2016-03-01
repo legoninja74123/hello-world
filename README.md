@@ -1,8 +1,8 @@
 # hello-world
-@a boring place for cool stuff
+a boring place for cool stuff
 
 
-%i really like Jurassic Park
+i really like Jurassic Park
 
 
-$i made changes to this branch so that it would be different from the branch named master
+ i made changes to this branch so that it would be different from the branch named master
